@@ -1,0 +1,24 @@
+2018-02-18 00:37:32.754 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer unloadEngine 
+INFO: Stopping Bonita Engine...
+2018-02-18 00:37:32.754 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer unloadEngine 
+INFO: Stopping the services...
+2018-02-18 00:37:32.879 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer unloadEngine 
+INFO: Bonita Engine stopped!
+2018-02-18 00:37:46.893 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Initializing Bonita Engine...
+2018-02-18 00:37:46.893 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Initializing Spring context...
+2018-02-18 00:37:51.988 +0530 org.hibernate.type.TypeFactory org.hibernate.type.TypeFactory$TypeScopeImpl injectSessionFactory 
+WARN: HHH000233: Scoping types to session factory org.hibernate.internal.SessionFactoryImpl@1daa1a0 after already scoped org.hibernate.internal.SessionFactoryImpl@5a54b21b
+2018-02-18 00:37:53.910 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Initializing platform...
+2018-02-18 00:37:53.910 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initPlatform 
+INFO: Creating platform...
+2018-02-18 00:37:54.070 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Platform initialized successfully.
+2018-02-18 00:37:54.070 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer startPlatform 
+INFO: Starting platform...
+2018-02-18 00:37:58.311 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer startPlatform 
+INFO: Platform started successfully
+2018-02-18 00:37:58.311 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Initialization of Bonita Engine done! ( took 11418ms)

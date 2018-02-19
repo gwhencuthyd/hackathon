@@ -1,0 +1,332 @@
+2018-02-18 00:00:36.257 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deploying web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi.war
+2018-02-18 00:00:37.223 +0530 org.apache.catalina.startup.TldConfig org.apache.catalina.startup.TldConfig execute 
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-02-18 00:00:37.230 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deployment of web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi.war has finished in 973 ms
+2018-02-18 00:03:21.980 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig undeploy 
+INFO: Undeploying context [/RestApi]
+2018-02-18 00:03:33.602 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deploying web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi.war
+2018-02-18 00:03:34.491 +0530 org.apache.catalina.startup.TldConfig org.apache.catalina.startup.TldConfig execute 
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-02-18 00:03:34.497 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deployment of web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi.war has finished in 895 ms
+2018-02-18 00:08:09.194 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig undeploy 
+INFO: Undeploying context [/RestApi]
+2018-02-18 00:08:16.186 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deploying web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi.war
+2018-02-18 00:08:17.051 +0530 org.apache.catalina.startup.TldConfig org.apache.catalina.startup.TldConfig execute 
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-02-18 00:08:17.056 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deployment of web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi.war has finished in 870 ms
+2018-02-18 00:15:58.278 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig undeploy 
+INFO: Undeploying context [/RestApi]
+2018-02-18 00:15:58.782 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig undeploy 
+INFO: Undeploying context [/RestApi]
+2018-02-18 00:16:11.715 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deploying web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi.war
+2018-02-18 00:16:12.867 +0530 org.apache.catalina.startup.TldConfig org.apache.catalina.startup.TldConfig execute 
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-02-18 00:16:17.105 +0530 com.sun.jersey.api.core.PackagesResourceConfig com.sun.jersey.api.core.PackagesResourceConfig init 
+INFO: Scanning for root resource and provider classes in the packages:
+  com.restapi
+2018-02-18 00:16:17.123 +0530 com.sun.jersey.api.core.ScanningResourceConfig com.sun.jersey.api.core.ScanningResourceConfig logClasses 
+INFO: Root resource classes found:
+  class com.restapi.MyRestAPI
+  class com.restapi.bonita.BonitaApiServices
+2018-02-18 00:16:17.124 +0530 com.sun.jersey.api.core.ScanningResourceConfig com.sun.jersey.api.core.ScanningResourceConfig init 
+INFO: No provider classes found.
+2018-02-18 00:16:17.171 +0530 com.sun.jersey.server.impl.application.WebApplicationImpl com.sun.jersey.server.impl.application.WebApplicationImpl _initiate 
+INFO: Initiating Jersey application, version 'Jersey: 1.19 02/11/2015 03:25 AM'
+2018-02-18 00:16:18.400 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deployment of web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi.war has finished in 6,685 ms
+2018-02-18 00:35:09.863 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig undeploy 
+INFO: Undeploying context [/RestApi]
+2018-02-18 00:37:04.598 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deploying web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi_New.war
+2018-02-18 00:37:05.430 +0530 org.apache.catalina.startup.TldConfig org.apache.catalina.startup.TldConfig execute 
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-02-18 00:37:05.436 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deployment of web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi_New.war has finished in 838 ms
+2018-02-18 00:37:32.613 +0530 org.quartz.plugins.management.ShutdownHookPlugin org.quartz.plugins.management.ShutdownHookPlugin$1 run 
+INFO: Shutting down Quartz...
+2018-02-18 00:37:32.613 +0530 org.apache.coyote.http11.Http11Protocol org.apache.coyote.AbstractProtocol pause 
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+2018-02-18 00:37:32.613 +0530 org.quartz.core.QuartzScheduler org.quartz.core.QuartzScheduler shutdown 
+INFO: Scheduler QuartzScheduler_$_NON_CLUSTERED shutting down.
+2018-02-18 00:37:32.613 +0530 org.quartz.core.QuartzScheduler org.quartz.core.QuartzScheduler standby 
+INFO: Scheduler QuartzScheduler_$_NON_CLUSTERED paused.
+2018-02-18 00:37:32.613 +0530 org.quartz.core.QuartzScheduler org.quartz.core.QuartzScheduler shutdown 
+INFO: Scheduler QuartzScheduler_$_NON_CLUSTERED shutdown complete.
+2018-02-18 00:37:32.676 +0530 org.apache.coyote.ajp.AjpProtocol org.apache.coyote.AbstractProtocol pause 
+INFO: Pausing ProtocolHandler ["ajp-bio-8009"]
+2018-02-18 00:37:32.738 +0530 org.apache.catalina.core.StandardService org.apache.catalina.core.StandardService stopInternal 
+INFO: Stopping service Catalina
+2018-02-18 00:37:32.863 +0530 org.springframework.beans.factory.support.DefaultListableBeanFactory org.springframework.beans.factory.support.DefaultSingletonBeanRegistry destroySingletons 
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@45ce49fc: defining beans [sessionService,queriableLogSessionProvider,tenantRecorderSync,searchEntitiesDescriptor,flowNodeExecutor,containerRegistry,parentContainerResolver,bpmInstancesCreator,waitingEventsInterrupter,stateBehaviors,flowNodeStateManager,eventsHandler,transitionConditionEvaluator,defaultTransitionGetter,implicitGatewayTransitionEvaluator,inclusiveGatewayTransitionEvaluationStrategy,exclusiveGatewayTransitionEvaluationStrategy,inclusiveTransitionEvaluator,exclusiveTransitionEvaluator,parallelGatewayTransitionEvaluator,transitionEvaluator,processExecutor,transactionalProcessInstanceInterruptor,documentReferenceExpressionExecutorStrategy,documentListReferenceExpressionExecutorStrategy,dependencyResolver,resourcesService,businessArchiveService,commandService,communityDefaultCommands,commandsToDeployAtStartup,deleteSessionCommand,defaultCommandProvider,canStartProcessDefinition,isInvolvedInHumanTask,executeBDMQuery,isUserProcessSupervisor,createSupervisor,getSupervisor,deleteSupervisor,searchProcessSupervisors,importProfiles,exportDefaultProfiles,executeActionsAndTerminate,isAllowedToStartProcess,isAllowedToSeeOverviewForm,isAllowedToSeeInstanciationForm,searchAssignedTasksSupervisedBy,searchArchivedTasksSupervisedBy,searchProcessDefinitionsSupervisedBy,searchSCommentSupervisedBy,isAllowedToStartProcesses,addEntityMemberCommand,removeEntityMemberCommand,searchEntityMembersCommand,searchEntityMembersForUserCommand,deleteEntityMembersCommand,searchWaitingEventsCommand,advancedStartProcessCommand,getBusinessDataByIdCommand,getBusinessDataByIdsCommand,getBusinessDataByQueryCommand,multipleStartPointsProcessCommand,tenantEventService,connectorExecutor,expressionService,expressionExecutorStrategyProvider,serverLazyLoader,serverProxyfier,businessDataRetriever,businessDataExpressionExecutorStrategy,businessObjectDAOExpressionStrategy,queryBusinessDataExpressionExecutorStrategy,constantExpressionExecutorStrategy,groovyScriptExpressionExecutorStrategy,inputExpressionExecutorStrategy,patternExpressionExecutorStrategy,xPathReadExpressionExecutorStrategy,engineConstantExpressionExecutorStrategy,contractInputExpressionExecutorStrategy,listExpressionExecutorStrategy,businessDataExpressionReferenceExecutorStrategy,equalityComparator,inequalityComparator,binaryComparatorMapper,binaryComparatorExecutor,logicalComplementExecutor,conditionExpressionExecutorStrategy,javaMethodCallExpressionExecutorStrategy,parameterExpressionExecutorStrategy,parameterService,queriableLoggerStrategy,workSynchronizationFactory,workService,operationsAnalyzer,persistRightOperandResolver,operationService,operationExecutorStrategyProvider,leftOperandHandlers,communityLeftOperandHandlers,leftOperandHandlerProvider,refBusinessDataRetriever,updateDataRefAction,businessDataLeftOperandHandler,assignmentOperationExecutorStrategy,dataLeftOperandHandler,transientDataLeftOperandHandler,externalDataLeftOperandHandler,mergeEntityAction,entitiesActionsExecutor,javaMethodOperationExecutorStrategy,businessDataAssignmentStrategy,xpathUpdateQueryOperationExecutorStrategy,documentLeftOperandHandler,documentListLeftOperandHandler,actorMappingService,bonitaExecutorServiceFactory,userFilterService,userFilterServiceSub,defaultFlushEventListeners,flushEventListeners,defaultActivatedRecords,activatedRecords,timeTracker,csvFlushEventListener,memoryFlushEventListener,themeRetriever,themeService,tenantConfiguration,timerEventTriggerJobListener,supervisorMappingService,profileService,activityInstanceService,processInstanceService,gatewayInstanceService,eventInstanceService,refBusinessDataService,parserFactory,xmlValidatorFactory,xmlValidator,xmlWriter,processDefinitionService,commentService,permissionService,apiExtensionPageServiceListener,pageService,loginService,genericAuthenticationServiceAccessor,tenantTechnicalLoggerService,identityService,externalIdentityMappingService,expressionResolverService,documentService,documentURLProvider,dependencyService,transientDataService,transientDataExpressionExecutorStrategy,dataInstanceService,dataExpressionExecutorStrategy,connectorServiceSub,connectorService,connectorInstanceService,categoryService,cacheService,defaultTenantCacheConfiguration,cacheConfigurations,communityCacheConfigurations,connectorCacheConfig,processDefinitionCacheConfig,parameterCacheConfig,userFilterCacheConfig,groovyScriptCacheConfig,transientDataCacheConfig,businessDataRepository,businessDataModelRepository,schemaManager,jsonBusinessDataSerializer,typeConverterUtil,businessDataReloader,countQueryProvider,businessDataService,authenticationService,archivingStrategy,archivingStrategyAdditionalConfiguration,archiveService,applicationService,contractDataService,formMappingService,syncQueriableLoggerService,sessionProvider,pageMappingService,urlAdapterInjector,authorizationRulesInjector,isAdmin,isProcessOwner,isTaskAvailableForUser,isActorInitiatorRule,isProcessInitiator,isTaskPerformer,isInvolvedInProcessInstance,formMappingKeyGenerator,org.bonitasoft.engine.core.form.LegacyURLAdapter#0,externalUrlAdapter]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@3f091a8b
+2018-02-18 00:37:32.879 +0530 org.springframework.beans.factory.support.DefaultListableBeanFactory org.springframework.beans.factory.support.DefaultSingletonBeanRegistry destroySingletons 
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3f091a8b: defining beans [synchroService,quartzProperties,schedulerExecutor,jobService,scheduler,servicesResolver,servicesLookup,quartzSchedulerFactory,platformSessionProvider,platformSessionService,platformLoginService,platformCommandService,platformAuthenticationService,sqlFolders,communitySqlFolders,platformRetriever,platformService,platformProperties,tenantRestartHandlers,commonTenantRestartHandlers,communityTenantRestartHandlers,nodeConfiguration,jdbcJobListener,loggerJobListener,schedulerServiceRestartHandler,platformTechnicalLoggerService,lockService,incidentService,bonitaSequenceManagerDSJNDI,platformDependencyService,parentClassLoaderResolver,classLoaderService,platformCacheService,defaultPlatformCacheConfiguration,platformCacheConfigurations,communityPlatformCacheConfigurations,synchroServiceCacheConfig,platformCacheConfig,broadcastService,platformRecorderSync,tenantRecorderSyncForPlatform,transactionExecutor,platformEventService,sequenceMappingProvider,org.bonitasoft.engine.sequence.SequenceMapping#0,org.bonitasoft.engine.sequence.SequenceMapping#1,org.bonitasoft.engine.sequence.SequenceMapping#2,org.bonitasoft.engine.sequence.SequenceMapping#3,org.bonitasoft.engine.sequence.SequenceMapping#4,org.bonitasoft.engine.sequence.SequenceMapping#5,org.bonitasoft.engine.sequence.SequenceMapping#6,org.bonitasoft.engine.sequence.SequenceMapping#7,org.bonitasoft.engine.sequence.SequenceMapping#8,org.bonitasoft.engine.sequence.SequenceMapping#9,org.bonitasoft.engine.sequence.SequenceMapping#10,org.bonitasoft.engine.sequence.SequenceMapping#11,org.bonitasoft.engine.sequence.SequenceMapping#12,org.bonitasoft.engine.sequence.SequenceMapping#13,org.bonitasoft.engine.sequence.SequenceMapping#14,org.bonitasoft.engine.sequence.SequenceMapping#15,org.bonitasoft.engine.sequence.SequenceMapping#16,org.bonitasoft.engine.sequence.SequenceMapping#17,org.bonitasoft.engine.sequence.SequenceMapping#18,org.bonitasoft.engine.sequence.SequenceMapping#19,org.bonitasoft.engine.sequence.SequenceMapping#20,org.bonitasoft.engine.sequence.SequenceMapping#21,org.bonitasoft.engine.sequence.SequenceMapping#22,org.bonitasoft.engine.sequence.SequenceMapping#23,org.bonitasoft.engine.sequence.SequenceMapping#24,org.bonitasoft.engine.sequence.SequenceMapping#25,org.bonitasoft.engine.sequence.SequenceMapping#26,org.bonitasoft.engine.sequence.SequenceMapping#27,org.bonitasoft.engine.sequence.SequenceMapping#28,org.bonitasoft.engine.sequence.SequenceMapping#29,org.bonitasoft.engine.sequence.SequenceMapping#30,org.bonitasoft.engine.sequence.SequenceMapping#31,org.bonitasoft.engine.sequence.SequenceMapping#32,org.bonitasoft.engine.sequence.SequenceMapping#33,org.bonitasoft.engine.sequence.SequenceMapping#34,org.bonitasoft.engine.sequence.SequenceMapping#35,org.bonitasoft.engine.sequence.SequenceMapping#36,org.bonitasoft.engine.sequence.SequenceMapping#37,org.bonitasoft.engine.sequence.SequenceMapping#38,org.bonitasoft.engine.sequence.SequenceMapping#39,org.bonitasoft.engine.sequence.SequenceMapping#40,org.bonitasoft.engine.sequence.SequenceMapping#41,org.bonitasoft.engine.sequence.SequenceMapping#42,org.bonitasoft.engine.sequence.SequenceMapping#43,org.bonitasoft.engine.sequence.SequenceMapping#44,org.bonitasoft.engine.sequence.SequenceMapping#45,org.bonitasoft.engine.sequence.SequenceMapping#46,org.bonitasoft.engine.sequence.SequenceMapping#47,org.bonitasoft.engine.sequence.SequenceMapping#48,org.bonitasoft.engine.sequence.SequenceMapping#49,org.bonitasoft.engine.sequence.SequenceMapping#50,org.bonitasoft.engine.sequence.SequenceMapping#51,org.bonitasoft.engine.sequence.SequenceMapping#52,org.bonitasoft.engine.sequence.SequenceMapping#53,org.bonitasoft.engine.sequence.SequenceMapping#54,org.bonitasoft.engine.sequence.SequenceMapping#55,org.bonitasoft.engine.sequence.SequenceMapping#56,org.bonitasoft.engine.sequence.SequenceMapping#57,org.bonitasoft.engine.sequence.SequenceMapping#58,org.bonitasoft.engine.sequence.SequenceMapping#59,org.bonitasoft.engine.sequence.SequenceMapping#60,org.bonitasoft.engine.sequence.SequenceMapping#61,sequenceManager,transactionManager,transactionService,communityHbmResourcesProvider,extraPlatformHibernateProperties,extraTenantHibernateProperties,platformPersistenceService,defaultPlatformWordSearchExclusionMappings,platformWordSearchExclusionMappings,persistenceService,defaultTenantWordSearchExclusionMappings,tenantWordSearchExclusionMappings,hbmConfigurationProviderProperties,communityHbmConfigurationProviderProperties,interfaceToClassMapping,communityInterfaceToClassMapping,mappingExclusions,hbmConfigurationProvider,hbmResourcesConfigurationProvider]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@4a3f4041
+2018-02-18 00:37:32.879 +0530 org.springframework.beans.factory.support.DefaultListableBeanFactory org.springframework.beans.factory.support.DefaultSingletonBeanRegistry destroySingletons 
+INFO: Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4a3f4041: defining beans [sessionAccessor]; root of factory hierarchy
+2018-02-18 00:37:32.910 +0530 org.apache.catalina.loader.WebappClassLoaderBase org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads 
+SEVERE: The web application [/bonita] appears to have started a thread named [QuartzScheduler_Worker-5] but has failed to stop it. This is very likely to create a memory leak.
+2018-02-18 00:37:32.910 +0530 org.apache.catalina.loader.WebappClassLoaderBase org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks 
+SEVERE: The web application [/bonita] created a ThreadLocal with key of type [org.bonitasoft.engine.transaction.JTATransactionServiceImpl.TransactionServiceContextThreadLocal] (value [org.bonitasoft.engine.transaction.JTATransactionServiceImpl$TransactionServiceContextThreadLocal@5b64cc28]) and a value of type [org.bonitasoft.engine.transaction.JTATransactionServiceImpl.TransactionServiceContext] (value [org.bonitasoft.engine.transaction.JTATransactionServiceImpl$TransactionServiceContext@599ffedf]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+2018-02-18 00:37:32.973 +0530 org.apache.coyote.http11.Http11Protocol org.apache.coyote.AbstractProtocol stop 
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+2018-02-18 00:37:32.973 +0530 org.apache.coyote.ajp.AjpProtocol org.apache.coyote.AbstractProtocol stop 
+INFO: Stopping ProtocolHandler ["ajp-bio-8009"]
+2018-02-18 00:37:32.973 +0530 bitronix.tm.integration.tomcat55.BTMLifecycleListener bitronix.tm.integration.tomcat55.BTMLifecycleListener lifecycleEvent 
+INFO: Shutting down Bitronix Transaction Manager
+2018-02-18 00:37:32.973 +0530 bitronix.tm.BitronixTransactionManager bitronix.tm.BitronixTransactionManager shutdown 
+INFO: shutting down Bitronix Transaction Manager
+2018-02-18 00:37:33.243 +0530 org.apache.coyote.http11.Http11Protocol org.apache.coyote.AbstractProtocol destroy 
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+2018-02-18 00:37:33.259 +0530 org.apache.coyote.ajp.AjpProtocol org.apache.coyote.AbstractProtocol destroy 
+INFO: Destroying ProtocolHandler ["ajp-bio-8009"]
+2018-02-18 00:37:39.359 +0530 org.apache.catalina.core.AprLifecycleListener org.apache.catalina.core.AprLifecycleListener lifecycleEvent 
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: E:\Software\Java\jdk1.8.0_131\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\Software\Oracle_11g\product\12.1.0\dbhome_1\bin;E:\Software\Java\jdk1.8.0_131\bin;E:\Software\gradle-2.7\bin;E:\Software\apache-ant-1.10.1\bin;E:\Software\apache-maven-3.5.0\bin;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\MySQL\MySQL Utilities 1.6\;.
+2018-02-18 00:37:39.499 +0530 org.apache.coyote.http11.Http11Protocol org.apache.coyote.AbstractProtocol init 
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+2018-02-18 00:37:39.515 +0530 org.apache.coyote.ajp.AjpProtocol org.apache.coyote.AbstractProtocol init 
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+2018-02-18 00:37:39.515 +0530 org.apache.catalina.startup.Catalina org.apache.catalina.startup.Catalina load 
+INFO: Initialization processed in 506 ms
+2018-02-18 00:37:39.515 +0530 bitronix.tm.integration.tomcat55.BTMLifecycleListener bitronix.tm.integration.tomcat55.BTMLifecycleListener lifecycleEvent 
+INFO: Starting Bitronix Transaction Manager
+2018-02-18 00:37:39.530 +0530 bitronix.tm.BitronixTransactionManager bitronix.tm.BitronixTransactionManager logVersion 
+INFO: Bitronix Transaction Manager version 2.1.3
+2018-02-18 00:37:39.530 +0530 bitronix.tm.Configuration bitronix.tm.Configuration buildServerIdArray 
+INFO: JVM unique ID: <bonita-tomcat-btm-node0>
+2018-02-18 00:37:39.593 +0530 bitronix.tm.resource.ResourceLoader bitronix.tm.resource.ResourceLoader init 
+INFO: reading resources configuration from E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67/conf/bitronix-resources.properties
+2018-02-18 00:37:41.508 +0530 bitronix.tm.recovery.Recoverer bitronix.tm.recovery.Recoverer run 
+INFO: recovery committed 0 dangling transaction(s) and rolled back 0 aborted transaction(s) on 2 resource(s) [jdbc/BusinessDataDSXA, jdbc/bonitaDSXA] (restricted to serverId 'bonita-tomcat-btm-node0')
+2018-02-18 00:37:41.526 +0530 org.apache.catalina.core.StandardService org.apache.catalina.core.StandardService startInternal 
+INFO: Starting service Catalina
+2018-02-18 00:37:41.526 +0530 org.apache.catalina.core.StandardEngine org.apache.catalina.core.StandardEngine startInternal 
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.67
+2018-02-18 00:37:41.588 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployDescriptor 
+INFO: Deploying configuration descriptor E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\conf\Catalina\localhost\bonita.xml
+2018-02-18 00:37:44.612 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jstl/core_rt is already defined
+2018-02-18 00:37:44.619 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jstl/core is already defined
+2018-02-18 00:37:44.625 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jsp/jstl/core is already defined
+2018-02-18 00:37:44.632 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jstl/fmt_rt is already defined
+2018-02-18 00:37:44.640 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jstl/fmt is already defined
+2018-02-18 00:37:44.646 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jsp/jstl/fmt is already defined
+2018-02-18 00:37:44.652 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jsp/jstl/functions is already defined
+2018-02-18 00:37:44.655 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://jakarta.apache.org/taglibs/standard/permittedTaglibs is already defined
+2018-02-18 00:37:44.658 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://jakarta.apache.org/taglibs/standard/scriptfree is already defined
+2018-02-18 00:37:44.662 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jstl/sql_rt is already defined
+2018-02-18 00:37:44.668 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jstl/sql is already defined
+2018-02-18 00:37:44.671 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jsp/jstl/sql is already defined
+2018-02-18 00:37:44.677 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jstl/xml_rt is already defined
+2018-02-18 00:37:44.682 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jstl/xml is already defined
+2018-02-18 00:37:44.685 +0530 org.apache.tomcat.util.digester.Digester org.apache.catalina.startup.TaglibUriRule body 
+INFO: TLD skipped. URI: http://java.sun.com/jsp/jstl/xml is already defined
+2018-02-18 00:37:44.698 +0530 org.apache.catalina.startup.TldConfig org.apache.catalina.startup.TldConfig execute 
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-02-18 00:37:44.717 +0530 org.apache.tomcat.jdbc.pool.ConnectionPool org.apache.tomcat.jdbc.pool.ConnectionPool checkPoolConfiguration 
+WARNING: maxIdle is larger than maxActive, setting maxIdle to: 17
+2018-02-18 00:37:46.799 +0530 org.apache.tomcat.jdbc.pool.ConnectionPool org.apache.tomcat.jdbc.pool.ConnectionPool init 
+SEVERE: Unable to create initial connections of pool.
+org.h2.jdbc.JdbcSQLException: Connection is broken: "java.net.ConnectException: Connection refused: connect: localhost:9091" [90067-170]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:158)
+	at org.h2.engine.SessionRemote.connectServer(SessionRemote.java:399)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:287)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:109)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:93)
+	at org.h2.Driver.connect(Driver.java:72)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:278)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:182)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:710)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:644)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:466)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:143)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:116)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:103)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:554)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:242)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:141)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:842)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:167)
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1103)
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:682)
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:271)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5479)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:677)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1939)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.h2.util.NetUtils.createSocket(NetUtils.java:119)
+	at org.h2.util.NetUtils.createSocket(NetUtils.java:100)
+	at org.h2.engine.SessionRemote.initTransfer(SessionRemote.java:93)
+	at org.h2.engine.SessionRemote.connectServer(SessionRemote.java:395)
+	... 35 more
+
+2018-02-18 00:37:46.815 +0530 org.apache.naming.NamingContext org.apache.naming.NamingContext lookup 
+WARNING: Unexpected exception resolving reference
+org.h2.jdbc.JdbcSQLException: Connection is broken: "java.net.ConnectException: Connection refused: connect: localhost:9091" [90067-170]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:329)
+	at org.h2.message.DbException.get(DbException.java:158)
+	at org.h2.engine.SessionRemote.connectServer(SessionRemote.java:399)
+	at org.h2.engine.SessionRemote.connectEmbeddedOrServer(SessionRemote.java:287)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:109)
+	at org.h2.jdbc.JdbcConnection.<init>(JdbcConnection.java:93)
+	at org.h2.Driver.connect(Driver.java:72)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connectUsingDriver(PooledConnection.java:278)
+	at org.apache.tomcat.jdbc.pool.PooledConnection.connect(PooledConnection.java:182)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.createConnection(ConnectionPool.java:710)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.borrowConnection(ConnectionPool.java:644)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.init(ConnectionPool.java:466)
+	at org.apache.tomcat.jdbc.pool.ConnectionPool.<init>(ConnectionPool.java:143)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.pCreatePool(DataSourceProxy.java:116)
+	at org.apache.tomcat.jdbc.pool.DataSourceProxy.createPool(DataSourceProxy.java:103)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.createDataSource(DataSourceFactory.java:554)
+	at org.apache.tomcat.jdbc.pool.DataSourceFactory.getObjectInstance(DataSourceFactory.java:242)
+	at org.apache.naming.factory.ResourceFactory.getObjectInstance(ResourceFactory.java:141)
+	at javax.naming.spi.NamingManager.getObjectInstance(NamingManager.java:321)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:842)
+	at org.apache.naming.NamingContext.lookup(NamingContext.java:167)
+	at org.apache.catalina.core.NamingContextListener.addResource(NamingContextListener.java:1103)
+	at org.apache.catalina.core.NamingContextListener.createNamingContext(NamingContextListener.java:682)
+	at org.apache.catalina.core.NamingContextListener.lifecycleEvent(NamingContextListener.java:271)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5479)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:652)
+	at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:677)
+	at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1939)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(DualStackPlainSocketImpl.java:85)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:172)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.h2.util.NetUtils.createSocket(NetUtils.java:119)
+	at org.h2.util.NetUtils.createSocket(NetUtils.java:100)
+	at org.h2.engine.SessionRemote.initTransfer(SessionRemote.java:93)
+	at org.h2.engine.SessionRemote.connectServer(SessionRemote.java:395)
+	... 35 more
+
+2018-02-18 00:37:46.831 +0530 org.apache.catalina.core.NamingContextListener org.apache.catalina.core.NamingContextListener addResource 
+WARNING: Failed to register in JMX: javax.naming.NamingException: Connection is broken: "java.net.ConnectException: Connection refused: connect: localhost:9091" [90067-170]
+2018-02-18 00:37:46.831 +0530 org.apache.tomcat.jdbc.pool.ConnectionPool org.apache.tomcat.jdbc.pool.ConnectionPool checkPoolConfiguration 
+WARNING: maxIdle is larger than maxActive, setting maxIdle to: 17
+2018-02-18 00:37:47.048 +0530 org.springframework.beans.factory.xml.XmlBeanDefinitionReader org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions 
+INFO: Loading XML bean definitions from file [E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\bonita\engine-server\work\platform-init\bonita-platform-init-community.xml]
+2018-02-18 00:37:47.118 +0530 org.springframework.beans.factory.xml.XmlBeanDefinitionReader org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions 
+INFO: Loading XML bean definitions from file [E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\bonita\engine-server\conf\platform-init\bonita-platform-init-custom.xml]
+2018-02-18 00:37:47.165 +0530 org.springframework.beans.factory.support.DefaultListableBeanFactory org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons 
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4a3f4041: defining beans [sessionAccessor]; root of factory hierarchy
+2018-02-18 00:37:47.180 +0530 org.springframework.beans.factory.xml.XmlBeanDefinitionReader org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions 
+INFO: Loading XML bean definitions from file [E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\bonita\engine-server\work\platform\bonita-platform-community.xml]
+2018-02-18 00:37:47.305 +0530 org.springframework.beans.factory.xml.XmlBeanDefinitionReader org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions 
+INFO: Loading XML bean definitions from file [E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\bonita\engine-server\conf\platform\bonita-platform-custom.xml]
+2018-02-18 00:37:47.384 +0530 org.springframework.beans.factory.support.DefaultListableBeanFactory org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons 
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3f091a8b: defining beans [synchroService,quartzProperties,schedulerExecutor,jobService,scheduler,servicesResolver,servicesLookup,quartzSchedulerFactory,platformSessionProvider,platformSessionService,platformLoginService,platformCommandService,platformAuthenticationService,sqlFolders,communitySqlFolders,platformRetriever,platformService,platformProperties,tenantRestartHandlers,commonTenantRestartHandlers,communityTenantRestartHandlers,nodeConfiguration,jdbcJobListener,loggerJobListener,schedulerServiceRestartHandler,platformTechnicalLoggerService,lockService,incidentService,bonitaSequenceManagerDSJNDI,platformDependencyService,parentClassLoaderResolver,classLoaderService,platformCacheService,defaultPlatformCacheConfiguration,platformCacheConfigurations,communityPlatformCacheConfigurations,synchroServiceCacheConfig,platformCacheConfig,broadcastService,platformRecorderSync,tenantRecorderSyncForPlatform,transactionExecutor,platformEventService,sequenceMappingProvider,org.bonitasoft.engine.sequence.SequenceMapping#0,org.bonitasoft.engine.sequence.SequenceMapping#1,org.bonitasoft.engine.sequence.SequenceMapping#2,org.bonitasoft.engine.sequence.SequenceMapping#3,org.bonitasoft.engine.sequence.SequenceMapping#4,org.bonitasoft.engine.sequence.SequenceMapping#5,org.bonitasoft.engine.sequence.SequenceMapping#6,org.bonitasoft.engine.sequence.SequenceMapping#7,org.bonitasoft.engine.sequence.SequenceMapping#8,org.bonitasoft.engine.sequence.SequenceMapping#9,org.bonitasoft.engine.sequence.SequenceMapping#10,org.bonitasoft.engine.sequence.SequenceMapping#11,org.bonitasoft.engine.sequence.SequenceMapping#12,org.bonitasoft.engine.sequence.SequenceMapping#13,org.bonitasoft.engine.sequence.SequenceMapping#14,org.bonitasoft.engine.sequence.SequenceMapping#15,org.bonitasoft.engine.sequence.SequenceMapping#16,org.bonitasoft.engine.sequence.SequenceMapping#17,org.bonitasoft.engine.sequence.SequenceMapping#18,org.bonitasoft.engine.sequence.SequenceMapping#19,org.bonitasoft.engine.sequence.SequenceMapping#20,org.bonitasoft.engine.sequence.SequenceMapping#21,org.bonitasoft.engine.sequence.SequenceMapping#22,org.bonitasoft.engine.sequence.SequenceMapping#23,org.bonitasoft.engine.sequence.SequenceMapping#24,org.bonitasoft.engine.sequence.SequenceMapping#25,org.bonitasoft.engine.sequence.SequenceMapping#26,org.bonitasoft.engine.sequence.SequenceMapping#27,org.bonitasoft.engine.sequence.SequenceMapping#28,org.bonitasoft.engine.sequence.SequenceMapping#29,org.bonitasoft.engine.sequence.SequenceMapping#30,org.bonitasoft.engine.sequence.SequenceMapping#31,org.bonitasoft.engine.sequence.SequenceMapping#32,org.bonitasoft.engine.sequence.SequenceMapping#33,org.bonitasoft.engine.sequence.SequenceMapping#34,org.bonitasoft.engine.sequence.SequenceMapping#35,org.bonitasoft.engine.sequence.SequenceMapping#36,org.bonitasoft.engine.sequence.SequenceMapping#37,org.bonitasoft.engine.sequence.SequenceMapping#38,org.bonitasoft.engine.sequence.SequenceMapping#39,org.bonitasoft.engine.sequence.SequenceMapping#40,org.bonitasoft.engine.sequence.SequenceMapping#41,org.bonitasoft.engine.sequence.SequenceMapping#42,org.bonitasoft.engine.sequence.SequenceMapping#43,org.bonitasoft.engine.sequence.SequenceMapping#44,org.bonitasoft.engine.sequence.SequenceMapping#45,org.bonitasoft.engine.sequence.SequenceMapping#46,org.bonitasoft.engine.sequence.SequenceMapping#47,org.bonitasoft.engine.sequence.SequenceMapping#48,org.bonitasoft.engine.sequence.SequenceMapping#49,org.bonitasoft.engine.sequence.SequenceMapping#50,org.bonitasoft.engine.sequence.SequenceMapping#51,org.bonitasoft.engine.sequence.SequenceMapping#52,org.bonitasoft.engine.sequence.SequenceMapping#53,org.bonitasoft.engine.sequence.SequenceMapping#54,org.bonitasoft.engine.sequence.SequenceMapping#55,org.bonitasoft.engine.sequence.SequenceMapping#56,org.bonitasoft.engine.sequence.SequenceMapping#57,org.bonitasoft.engine.sequence.SequenceMapping#58,org.bonitasoft.engine.sequence.SequenceMapping#59,org.bonitasoft.engine.sequence.SequenceMapping#60,org.bonitasoft.engine.sequence.SequenceMapping#61,sequenceManager,transactionManager,transactionService,communityHbmResourcesProvider,extraPlatformHibernateProperties,extraTenantHibernateProperties,platformPersistenceService,defaultPlatformWordSearchExclusionMappings,platformWordSearchExclusionMappings,persistenceService,defaultTenantWordSearchExclusionMappings,tenantWordSearchExclusionMappings,hbmConfigurationProviderProperties,communityHbmConfigurationProviderProperties,interfaceToClassMapping,communityInterfaceToClassMapping,mappingExclusions,hbmConfigurationProvider,hbmResourcesConfigurationProvider]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@4a3f4041
+2018-02-18 00:37:54.509 +0530 org.springframework.beans.factory.xml.XmlBeanDefinitionReader org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions 
+INFO: Loading XML bean definitions from file [E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\bonita\engine-server\work\tenants\1\bonita-tenant-community.xml]
+2018-02-18 00:37:54.587 +0530 org.springframework.beans.factory.xml.XmlBeanDefinitionReader org.springframework.beans.factory.xml.XmlBeanDefinitionReader loadBeanDefinitions 
+INFO: Loading XML bean definitions from file [E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\bonita\engine-server\conf\tenants\1\bonita-tenants-custom.xml]
+2018-02-18 00:37:54.697 +0530 org.springframework.beans.factory.support.DefaultListableBeanFactory org.springframework.beans.factory.support.DefaultListableBeanFactory preInstantiateSingletons 
+INFO: Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@45ce49fc: defining beans [sessionService,queriableLogSessionProvider,tenantRecorderSync,searchEntitiesDescriptor,flowNodeExecutor,containerRegistry,parentContainerResolver,bpmInstancesCreator,waitingEventsInterrupter,stateBehaviors,flowNodeStateManager,eventsHandler,transitionConditionEvaluator,defaultTransitionGetter,implicitGatewayTransitionEvaluator,inclusiveGatewayTransitionEvaluationStrategy,exclusiveGatewayTransitionEvaluationStrategy,inclusiveTransitionEvaluator,exclusiveTransitionEvaluator,parallelGatewayTransitionEvaluator,transitionEvaluator,processExecutor,transactionalProcessInstanceInterruptor,documentReferenceExpressionExecutorStrategy,documentListReferenceExpressionExecutorStrategy,dependencyResolver,resourcesService,businessArchiveService,commandService,communityDefaultCommands,commandsToDeployAtStartup,deleteSessionCommand,defaultCommandProvider,canStartProcessDefinition,isInvolvedInHumanTask,executeBDMQuery,isUserProcessSupervisor,createSupervisor,getSupervisor,deleteSupervisor,searchProcessSupervisors,importProfiles,exportDefaultProfiles,executeActionsAndTerminate,isAllowedToStartProcess,isAllowedToSeeOverviewForm,isAllowedToSeeInstanciationForm,searchAssignedTasksSupervisedBy,searchArchivedTasksSupervisedBy,searchProcessDefinitionsSupervisedBy,searchSCommentSupervisedBy,isAllowedToStartProcesses,addEntityMemberCommand,removeEntityMemberCommand,searchEntityMembersCommand,searchEntityMembersForUserCommand,deleteEntityMembersCommand,searchWaitingEventsCommand,advancedStartProcessCommand,getBusinessDataByIdCommand,getBusinessDataByIdsCommand,getBusinessDataByQueryCommand,multipleStartPointsProcessCommand,tenantEventService,connectorExecutor,expressionService,expressionExecutorStrategyProvider,serverLazyLoader,serverProxyfier,businessDataRetriever,businessDataExpressionExecutorStrategy,businessObjectDAOExpressionStrategy,queryBusinessDataExpressionExecutorStrategy,constantExpressionExecutorStrategy,groovyScriptExpressionExecutorStrategy,inputExpressionExecutorStrategy,patternExpressionExecutorStrategy,xPathReadExpressionExecutorStrategy,engineConstantExpressionExecutorStrategy,contractInputExpressionExecutorStrategy,listExpressionExecutorStrategy,businessDataExpressionReferenceExecutorStrategy,equalityComparator,inequalityComparator,binaryComparatorMapper,binaryComparatorExecutor,logicalComplementExecutor,conditionExpressionExecutorStrategy,javaMethodCallExpressionExecutorStrategy,parameterExpressionExecutorStrategy,parameterService,queriableLoggerStrategy,workSynchronizationFactory,workService,operationsAnalyzer,persistRightOperandResolver,operationService,operationExecutorStrategyProvider,leftOperandHandlers,communityLeftOperandHandlers,leftOperandHandlerProvider,refBusinessDataRetriever,updateDataRefAction,businessDataLeftOperandHandler,assignmentOperationExecutorStrategy,dataLeftOperandHandler,transientDataLeftOperandHandler,externalDataLeftOperandHandler,mergeEntityAction,entitiesActionsExecutor,javaMethodOperationExecutorStrategy,businessDataAssignmentStrategy,xpathUpdateQueryOperationExecutorStrategy,documentLeftOperandHandler,documentListLeftOperandHandler,actorMappingService,bonitaExecutorServiceFactory,userFilterService,userFilterServiceSub,defaultFlushEventListeners,flushEventListeners,defaultActivatedRecords,activatedRecords,timeTracker,csvFlushEventListener,memoryFlushEventListener,themeRetriever,themeService,tenantConfiguration,timerEventTriggerJobListener,supervisorMappingService,profileService,activityInstanceService,processInstanceService,gatewayInstanceService,eventInstanceService,refBusinessDataService,parserFactory,xmlValidatorFactory,xmlValidator,xmlWriter,processDefinitionService,commentService,permissionService,apiExtensionPageServiceListener,pageService,loginService,genericAuthenticationServiceAccessor,tenantTechnicalLoggerService,identityService,externalIdentityMappingService,expressionResolverService,documentService,documentURLProvider,dependencyService,transientDataService,transientDataExpressionExecutorStrategy,dataInstanceService,dataExpressionExecutorStrategy,connectorServiceSub,connectorService,connectorInstanceService,categoryService,cacheService,defaultTenantCacheConfiguration,cacheConfigurations,communityCacheConfigurations,connectorCacheConfig,processDefinitionCacheConfig,parameterCacheConfig,userFilterCacheConfig,groovyScriptCacheConfig,transientDataCacheConfig,businessDataRepository,businessDataModelRepository,schemaManager,jsonBusinessDataSerializer,typeConverterUtil,businessDataReloader,countQueryProvider,businessDataService,authenticationService,archivingStrategy,archivingStrategyAdditionalConfiguration,archiveService,applicationService,contractDataService,formMappingService,syncQueriableLoggerService,sessionProvider,pageMappingService,urlAdapterInjector,authorizationRulesInjector,isAdmin,isProcessOwner,isTaskAvailableForUser,isActorInitiatorRule,isProcessInitiator,isTaskPerformer,isInvolvedInProcessInstance,formMappingKeyGenerator,org.bonitasoft.engine.core.form.LegacyURLAdapter#0,externalUrlAdapter]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@3f091a8b
+2018-02-18 00:37:58.104 +0530 org.quartz.core.SchedulerSignalerImpl org.quartz.core.SchedulerSignalerImpl <init> 
+INFO: Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2018-02-18 00:37:58.104 +0530 org.quartz.core.QuartzScheduler org.quartz.core.QuartzScheduler <init> 
+INFO: Quartz Scheduler v.2.2.1 created.
+2018-02-18 00:37:58.104 +0530 org.quartz.plugins.management.ShutdownHookPlugin org.quartz.plugins.management.ShutdownHookPlugin initialize 
+INFO: Registering Quartz shutdown hook.
+2018-02-18 00:37:58.104 +0530 org.quartz.core.QuartzScheduler org.quartz.core.QuartzScheduler initialize 
+INFO: Scheduler meta-data: Quartz Scheduler (v2.2.1) 'QuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 5 threads.
+  Using job-store 'org.bonitasoft.engine.scheduler.impl.BonitaJobStoreCMT' - which supports persistence. and is not clustered.
+
+2018-02-18 00:37:58.120 +0530 org.quartz.core.QuartzScheduler org.quartz.core.QuartzScheduler setJobFactory 
+INFO: JobFactory set to: org.bonitasoft.engine.scheduler.impl.TransactionalSimpleJobFactory@559ea17d
+2018-02-18 00:37:58.265 +0530 org.quartz.core.QuartzScheduler org.quartz.core.QuartzScheduler start 
+INFO: Scheduler QuartzScheduler_$_NON_CLUSTERED started.
+2018-02-18 00:37:58.530 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployDescriptor 
+INFO: Deployment of configuration descriptor E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\conf\Catalina\localhost\bonita.xml has finished in 16,942 ms
+2018-02-18 00:37:58.530 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deploying web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi_New.war
+2018-02-18 00:37:59.282 +0530 org.apache.catalina.startup.TldConfig org.apache.catalina.startup.TldConfig execute 
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-02-18 00:37:59.290 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deployment of web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi_New.war has finished in 760 ms
+2018-02-18 00:37:59.291 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployDirectory 
+INFO: Deploying web application directory E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\manager
+2018-02-18 00:37:59.430 +0530 org.apache.catalina.startup.TldConfig org.apache.catalina.startup.TldConfig execute 
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-02-18 00:37:59.449 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployDirectory 
+INFO: Deployment of web application directory E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\manager has finished in 158 ms
+2018-02-18 00:37:59.450 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployDirectory 
+INFO: Deploying web application directory E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\ROOT
+2018-02-18 00:37:59.555 +0530 org.apache.catalina.startup.TldConfig org.apache.catalina.startup.TldConfig execute 
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-02-18 00:37:59.558 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployDirectory 
+INFO: Deployment of web application directory E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\ROOT has finished in 108 ms
+2018-02-18 00:37:59.560 +0530 org.apache.coyote.http11.Http11Protocol org.apache.coyote.AbstractProtocol start 
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+2018-02-18 00:37:59.568 +0530 org.apache.coyote.ajp.AjpProtocol org.apache.coyote.AbstractProtocol start 
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+2018-02-18 00:37:59.569 +0530 org.apache.catalina.startup.Catalina org.apache.catalina.startup.Catalina start 
+INFO: Server startup in 20046 ms
+2018-02-18 00:38:08.502 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig undeploy 
+INFO: Undeploying context [/RestApi_New]
+2018-02-18 00:38:24.862 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deploying web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi_New.war
+2018-02-18 00:38:25.865 +0530 org.apache.catalina.startup.TldConfig org.apache.catalina.startup.TldConfig execute 
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2018-02-18 00:38:25.870 +0530 org.apache.catalina.startup.HostConfig org.apache.catalina.startup.HostConfig deployWAR 
+INFO: Deployment of web application archive E:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\webapps\RestApi_New.war has finished in 1,008 ms

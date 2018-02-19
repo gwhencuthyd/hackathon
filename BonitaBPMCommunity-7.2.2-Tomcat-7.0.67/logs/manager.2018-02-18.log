@@ -1,0 +1,44 @@
+2018-02-18 00:00:06.111 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+2018-02-18 00:00:06.153 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: init: Global resources are available
+2018-02-18 00:00:06.226 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+2018-02-18 00:00:37.231 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+2018-02-18 00:03:18.883 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+2018-02-18 00:03:21.451 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: undeploy: Undeploying web application at '/RestApi'
+2018-02-18 00:03:21.985 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+2018-02-18 00:03:34.498 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+2018-02-18 00:08:08.672 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: undeploy: Undeploying web application at '/RestApi'
+2018-02-18 00:08:09.198 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+2018-02-18 00:08:17.057 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+2018-02-18 00:15:57.754 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: undeploy: Undeploying web application at '/RestApi'
+2018-02-18 00:15:58.281 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+2018-02-18 00:16:18.401 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+2018-02-18 00:35:09.328 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: undeploy: Undeploying web application at '/RestApi'
+2018-02-18 00:35:09.867 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+2018-02-18 00:37:05.437 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+2018-02-18 00:38:07.875 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+2018-02-18 00:38:07.875 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: init: Global resources are available
+2018-02-18 00:38:07.978 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: undeploy: Undeploying web application at '/RestApi_New'
+2018-02-18 00:38:08.507 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'
+2018-02-18 00:38:25.871 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/manager] org.apache.catalina.core.ApplicationContext log 
+INFO: HTMLManager: list: Listing contexts for virtual host 'localhost'

@@ -1,0 +1,52 @@
+2018-02-17 21:32:29.280 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Initializing Bonita Engine...
+2018-02-17 21:32:29.280 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Initializing Spring context...
+2018-02-17 21:32:34.821 +0530 org.hibernate.type.TypeFactory org.hibernate.type.TypeFactory$TypeScopeImpl injectSessionFactory 
+WARN: HHH000233: Scoping types to session factory org.hibernate.internal.SessionFactoryImpl@60005cb5 after already scoped org.hibernate.internal.SessionFactoryImpl@159b9ede
+2018-02-17 21:32:36.787 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Initializing platform...
+2018-02-17 21:32:36.787 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initPlatform 
+INFO: Creating platform...
+2018-02-17 21:32:36.881 +0530 org.hibernate.engine.jdbc.spi.SqlExceptionHelper org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions 
+WARN: SQL Error: 1146, SQLState: 42S02
+2018-02-17 21:32:36.881 +0530 org.hibernate.engine.jdbc.spi.SqlExceptionHelper org.hibernate.engine.jdbc.spi.SqlExceptionHelper logExceptions 
+ERROR: Table 'bonita.platform' doesn't exist
+2018-02-17 21:34:59.210 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Platform initialized successfully.
+2018-02-17 21:34:59.210 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer startPlatform 
+INFO: Starting platform...
+2018-02-17 21:35:06.954 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer startPlatform 
+INFO: Platform started successfully
+2018-02-17 21:35:06.954 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Initialization of Bonita Engine done! ( took 157674ms)
+2018-02-17 21:35:47.187 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/bonita] org.apache.catalina.core.ApplicationContext log 
+INFO: RestletServlet: [Restlet] ServerServlet: component class is null
+2018-02-17 21:35:47.712 +0530 org.apache.catalina.core.ContainerBase.[Catalina].[localhost].[/bonita] org.apache.catalina.core.ApplicationContext log 
+INFO: RestletServlet: [Restlet] Attaching application: org.bonitasoft.web.rest.server.BonitaRestletApplication@5ef67641 to URI: /bonita/API
+2018-02-17 21:35:47.732 +0530 org.restlet.Component.BonitaRestletApplication org.restlet.Application start 
+INFO: Starting org.bonitasoft.web.rest.server.BonitaRestletApplication application
+2018-02-17 23:58:43.525 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer unloadEngine 
+INFO: Stopping Bonita Engine...
+2018-02-17 23:58:43.525 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer unloadEngine 
+INFO: Stopping the services...
+2018-02-17 23:58:43.838 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer unloadEngine 
+INFO: Bonita Engine stopped!
+2018-02-17 23:59:33.172 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Initializing Bonita Engine...
+2018-02-17 23:59:33.172 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Initializing Spring context...
+2018-02-17 23:59:39.241 +0530 org.hibernate.type.TypeFactory org.hibernate.type.TypeFactory$TypeScopeImpl injectSessionFactory 
+WARN: HHH000233: Scoping types to session factory org.hibernate.internal.SessionFactoryImpl@1daa1a0 after already scoped org.hibernate.internal.SessionFactoryImpl@5a54b21b
+2018-02-17 23:59:41.222 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Initializing platform...
+2018-02-17 23:59:41.222 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initPlatform 
+INFO: Creating platform...
+2018-02-17 23:59:41.587 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Platform initialized successfully.
+2018-02-17 23:59:41.587 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer startPlatform 
+INFO: Starting platform...
+2018-02-17 23:59:46.745 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer startPlatform 
+INFO: Platform started successfully
+2018-02-17 23:59:46.745 +0530 org.bonitasoft.engine.EngineInitializer org.bonitasoft.engine.EngineInitializer initializeEngine 
+INFO: Initialization of Bonita Engine done! ( took 13573ms)
