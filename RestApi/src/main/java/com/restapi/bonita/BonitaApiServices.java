@@ -27,11 +27,7 @@ import org.json.simple.parser.ParseException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-/*import com.verizon.accessunification.dao.AccessUnificationDAO;
-import com.verizon.accessunification.dto.SaveOrderDTO;
-import com.verizon.accessunification.utilities.AUConstants;
-import com.verizon.accessunification.utilities.JsonXMLUtil;*/
-//import org.apache.commons.httpclient.HttpClient;
+
 
 @Component
 @Path("/bonita")
@@ -39,7 +35,7 @@ public class BonitaApiServices
 {
 	
 	@Autowired
-	//public AccessUnificationDAO accessUnificationDAO;
+	
 	
 	private static final Logger logger= Logger.getLogger(BonitaApiServices.class);
 	
@@ -49,9 +45,7 @@ public class BonitaApiServices
 	public BonitaApiServices(){
 	    }
 	    
-	/*public BonitaApiServices(AccessUnificationDAO accessUnificationDAO){
-	        this.accessUnificationDAO = accessUnificationDAO;
-	    } */
+	
 	
 	
 
@@ -170,115 +164,6 @@ public class BonitaApiServices
 				completedByUserName, contract);
 	} // End of completeTaskByIdService
 	
-	/*@POST
-	  @Path("/saveOrderDetails")
-	  @Consumes(MediaType.APPLICATION_JSON)
-	  @Produces(MediaType.APPLICATION_JSON)
-	  public String saveOrderDetails(String OrderDetails) throws ParseException
-	  {   
-	  	  
-    JSONObject json = new JSONObject();	  
-    JSONParser jsonParser = new JSONParser(); 
-	JSONObject jsonObject = (JSONObject) jsonParser.parse(OrderDetails);
-
-	 JSONObject nFOrderDetails = (JSONObject) jsonObject.get("nFOrderDetails");
-	 
-	  SaveOrderDTO saveDTO= new SaveOrderDTO();
-	  saveDTO.setCaseId((String)jsonObject.get("caseId"));
-	  saveDTO.setnFOrderNum((String)jsonObject.get("nFOrderNum"));
-	  saveDTO.setnFOrderVer((String)jsonObject.get("nFOrderVer"));
-	  saveDTO.setnFOrderDetails(nFOrderDetails.toString());
-
-		  try {
-			    int result = accessUnificationDAO.checkOrderExist(saveDTO.getCaseId());
-	          	if(result >0) {
-	          		
-	          		int updatedRows = accessUnificationDAO.updateOrderDetails(saveDTO);
-	          		if (updatedRows != 0) {
-	          			json.put(AUConstants.STATUSCODE, AUConstants.STATUSCODE_SUCCESS);
-		                json.put(AUConstants.STATUSMESSAGE, AUConstants.SUCCESS);
-		             } else {
-		            	 json.put(AUConstants.STATUSCODE, AUConstants.STATUSCODE_FAIL);
-			                json.put(AUConstants.STATUSMESSAGE, AUConstants.FAILED);
-		                 }
-	          	} 
-	          	else 
-	          	{
-	      
-			  	    int updatedRows = accessUnificationDAO.saveOrderDetails(saveDTO);
-			  	    if (updatedRows != 0) {
-			  	    	json.put(AUConstants.STATUSCODE, AUConstants.STATUSCODE_SUCCESS);
-		                json.put(AUConstants.STATUSMESSAGE, AUConstants.SUCCESS);
-		             } else {
-		            	 json.put(AUConstants.STATUSCODE, AUConstants.STATUSCODE_FAIL);
-			                json.put(AUConstants.STATUSMESSAGE, AUConstants.FAILED);
-		                 }
-	            }	  		  
-	        } catch (Exception e) {
-	            logger.error(":::::::::::: Error while saving the order :::::::::::::",e);
-	            e.printStackTrace();
-	            json.put(AUConstants.STATUSCODE, AUConstants.STATUSCODE_FAIL);
-                json.put(AUConstants.STATUSMESSAGE, AUConstants.FAILED);
-	        }
-		    return json.toString();	        
-	    }
-	    
-	  
-	  @GET
-	    @Path("/orderDetails/{nfOrderNum}/{nfOrderVer}")
-	    public Response orderDetails(@PathParam("nfOrderNum") String NF_ORDER_NUM,
-	    										 @PathParam("nfOrderVer") String NF_ORDER_VER) 
-		 	{   
-		    int statusCode = 200;
-		    String result = "";
-		    try{
-		        if (!NF_ORDER_NUM.isEmpty()) {
-		        	result = accessUnificationDAO.getAccessUnificationList(NF_ORDER_NUM, NF_ORDER_VER);
-		        	if(result!=null)
-		        	return Response.status(statusCode).entity(result).build();
-		            else
-		            return Response.status(204).entity("Order Details Not Found").build();
-		        }
-		    }
-		    catch (Exception e) {
-	            logger.error(":::::::::::: Error while retrieving the order :::::::::::::",e);
-	            e.printStackTrace();
-	        }
-	        return Response.status(400).entity("Invalid Data in the Request").build();
-	} 
-
-
-	    @GET
-	    @Path("/orderDetailsXML/{nfOrderNum}/{nfOrderVer}")
-	    public Response orderDetailsXML(@PathParam("nfOrderNum") String NF_ORDER_NUM,
-												@PathParam("nfOrderVer") String NF_ORDER_VER)  {
-			int statusCode = 200;
-			String result = null;
-			String jsonToXml ="";
-			try{
-				if (!NF_ORDER_NUM.isEmpty())
-					  {
-						result = accessUnificationDAO.getAccessUnificationList(
-								NF_ORDER_NUM, NF_ORDER_VER);
-		
-						if (result != null){
-						   jsonToXml = JsonXMLUtil.json2Xml(result);
-						   jsonToXml = "<nfOrder>"+jsonToXml+"</nfOrder>";
-						   jsonToXml = jsonToXml.replaceAll("null","");
-						   return Response.status(statusCode).entity(jsonToXml).build();	
-						   }			
-						else{
-							jsonToXml = "<nfOrder>Order Details Not Found</nfOrder>";
-							return Response.status(204).entity(jsonToXml).build();
-						}
-					}
-			}
-			catch (Exception e) {
-	            logger.error(":::::::::::: Error while retrieving the order :::::::::::::",e);
-	            e.printStackTrace();
-	        }
-			return Response.status(400).entity("Invalid Data in the Request")
-					.build();
-		}	*/
+	
 	
 }  // End of BonitaApiServices
