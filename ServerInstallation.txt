@@ -1,0 +1,26 @@
+MySQL Setup
+1. Create schema bonita
+2. Create schema bussines_data
+3. Create a user bonita/bpm and give full access to the scehmas bonita and bussines_data
+4. Run the below SQL is there is any issues with packet size
+    SET GLOBAL max_allowed_packet=1073741824;
+
+Bonita Tomcat Server 
+1. Download the Bonita tomcat bundle
+2. Unzip bundle 
+3. Update below files with the MySQL DB details uncomment MySQL enteries and comment the H2 enteries
+	G:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\conf\bitronix-resources.properties 
+4. Update below files with the MySQL DB details uncomment MySQL enteries and comment the H2 enteries
+	G:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\conf\Catalina\localhost\bonita.xml
+5. Comment the H2 Listner entry in G:\Software\BonitaBPMCommunity-7.2.2-Tomcat-7.0.67\conf\server.xml
+	<Listener className="org.bonitasoft.tomcat.H2Listener" tcpPort="9091" baseDir="${bonita.home}/engine-server/work/platform" start="true" />
+6. Change in setEnv.bat/setEnv.sh
+	set DB_OPTS="-Dsysprop.bonita.db.vendor=mysql"
+7. Start the Tomcat server using catalina.bat run so that the tomcat console does not disappear
+8. Open the bonita portal http//localhost:8080/bonita 
+9. Log in as tenant user credentails are install/install/install
+10. In the Users add walter.bates/bpm and Add the new user to the Profiles of Administrator and Users
+11. Log in as walter.bates/bpm
+
+
+
